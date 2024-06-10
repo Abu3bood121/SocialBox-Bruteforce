@@ -1,5 +1,5 @@
 <p align="center">
-   <a href="https://github.com/FantoX/SocialBox-Bruteforce"><img src='https://github.com/FantoX/SocialBox-Bruteforce/assets/143634789/737d95fd-5707-43e9-b14c-c82026827dc6' width="800px"> </a>
+   <a href="https://github.com/FantoX/SocialBox-Bruteforce"><img src='https://github.com/Abu3bood121/SocialBox-Bruteforce/assets/143634789/737d95fd-5707-43e9-b14c-c82026827dc6' width="800px"> </a>
 </p>
 
 <div align="center">
